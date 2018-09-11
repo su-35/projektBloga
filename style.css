@@ -1,0 +1,151 @@
+body
+{
+    background-color:#ffffff;
+    font-family: 'Sorts Mill Goudy', serif;
+    font-family: 'Oranienbaum', serif;
+    
+}
+#containter
+{
+    
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.logo
+{
+    height:80px;
+    font-family: 'Cormorant', serif;
+    font-weight: 400;
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 10px;
+    
+}
+.menu
+{
+    width: 1000px;
+    height:60px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Sorts Mill Goudy', serif;
+    font-size: 17px;
+    background-color: #ffffff;
+    color:#adaba1;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    text-align: center;
+}
+.mp
+{
+    float: left;
+    width: 130px;
+    padding-top:17px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left:20px;
+}
+.books
+{
+    float: left;
+    width: 130px;
+    padding-top:17px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.films
+{
+    float: left;
+    width: 130px;
+    padding-top:17px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+}
+.travels
+{
+    float: left;
+    width: 130px;
+    padding-top:17px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    
+}
+.medicine
+{
+    float: left;
+    width: 130px;
+    padding-top:17px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    
+}
+.programming
+{
+    float: left;
+    width: 130px;
+    padding-top:17px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    
+}
+.contact
+{
+    float: left;
+    width: 130px;
+    padding-top:17px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    
+}
+.postcard
+{
+    float: left;
+    margin-top:20px;
+    margin-left: 150px;
+    height:200px;
+    padding-bottom:40px;
+    background-color: black;
+}
+.text
+{
+    float: left;
+    margin-top:20px;
+    margin-left:500;
+    height:200px;
+    padding: 20px;
+    width: 660px;
+    margin-left:470;
+    background-color: #c3d612;
+}
+.text2
+{
+    float: left;
+    margin-top:20px;
+    margin-left:500;
+    height:200px;
+    padding: 20px;
+    width: 660px;
+    margin-left:470;
+    background-color: #c26946;
+    
+}
+.text3
+{
+    float: left;
+    margin-top:20px;
+    margin-left:500;
+    height:200px;
+    padding: 20px;
+    width: 660px;
+    margin-left:470;
+    background-color: #78ac85;
+    
+}
+
+
+
+
+
+
