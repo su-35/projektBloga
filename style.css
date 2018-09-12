@@ -7,9 +7,9 @@ body
 }
 #containter
 {
-    
-    margin-left: 150px;
-    margin-right: 150px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .logo
 {
@@ -25,79 +25,112 @@ body
 }
 .menu
 {
-    width: 1000px;
-    height:60px;
-    margin-left: 150px;
-    margin-right: 150px;
+    height:40px;
+    padding-top: 25px;
+    padding-bottom: 10px;
     font-family: 'Sorts Mill Goudy', serif;
-    font-size: 17px;
-    background-color: #ffffff;
-    color:#adaba1;
+    font-size: 18px;
+    background-color: #2ec5b1;
+    color:#1b0e0e;
     border-top: 1px solid;
     border-bottom: 1px solid;
-    text-align: center;
 }
 .mp
 {
     float: left;
-    width: 130px;
-    padding-top:17px;
-    padding-bottom: 10px;
-    padding-right: 10px;
-    padding-left:20px;
+    min-width: 130px;
+    background-color: #a9c755;
+    text-align: center;
+    padding-left: 90px;
+    padding-right: 20px;
+
+}
+.mp:hover
+{
+    cursor: pointer;
 }
 .books
 {
     float: left;
-    width: 130px;
-    padding-top:17px;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    min-width: 130px;
+    background-color: #ace01e;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.books:hover
+{
+    cursor: pointer;
 }
 .films
 {
     float: left;
-    width: 130px;
-    padding-top:17px;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    min-width: 130px;
+    background-color: #4a3486;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
 
+}
+.films:hover
+{
+    cursor: pointer;
 }
 .travels
 {
     float: left;
-    width: 130px;
-    padding-top:17px;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    min-width: 130px;
+    background-color: #b3be92;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
     
+}
+.travels:hover
+{
+    cursor: pointer;
 }
 .medicine
 {
     float: left;
-    width: 130px;
-    padding-top:17px;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    min-width: 130px;
+    background-color: #cf7711;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
     
+}
+.medicine:hover
+{
+    cursor: pointer;
 }
 .programming
 {
     float: left;
-    width: 130px;
-    padding-top:17px;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    min-width: 130px;
+    background-color: #354608;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
     
+}
+.programming:hover
+{
+    cursor: pointer;
 }
 .contact
 {
     float: left;
-    width: 130px;
-    padding-top:17px;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    min-width: 130px;
+    background-color: #4c466b;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 90px;
     
+}
+.contact:hover
+{
+    cursor: pointer;
 }
 .postcard
 {
