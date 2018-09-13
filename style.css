@@ -25,35 +25,38 @@ body
 }
 .menu
 {
-    height:40px;
-    padding-top: 25px;
-    padding-bottom: 10px;
+    height:25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     font-family: 'Sorts Mill Goudy', serif;
-    font-size: 18px;
-    background-color: #2ec5b1;
-    color:#1b0e0e;
+    font-size: 17px;
+    background-color: #ffffff;
+    color:#757575;
     border-top: 1px solid;
     border-bottom: 1px solid;
+    border-color:#dbdbdb; 
 }
 .mp
 {
     float: left;
-    min-width: 130px;
-    background-color: #a9c755;
+    width: 120px;
+    background-color: #ffffff;
     text-align: center;
-    padding-left: 90px;
+    padding-left: 80px;
     padding-right: 20px;
 
 }
 .mp:hover
 {
     cursor: pointer;
+    background-color: #ebebebf3;
+    color:#000000;
 }
 .books
 {
     float: left;
     min-width: 130px;
-    background-color: #ace01e;
+    background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
@@ -61,12 +64,15 @@ body
 .books:hover
 {
     cursor: pointer;
+    background-color: #ebebebf3;
+    color:#000000;
+    
 }
 .films
 {
     float: left;
     min-width: 130px;
-    background-color: #4a3486;
+    background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
@@ -75,12 +81,14 @@ body
 .films:hover
 {
     cursor: pointer;
+    background-color: #ebebebf3;
+    color:#000000;
 }
 .travels
 {
     float: left;
     min-width: 130px;
-    background-color: #b3be92;
+    background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
@@ -89,12 +97,15 @@ body
 .travels:hover
 {
     cursor: pointer;
+    background-color: #ebebebf3;
+    color:#000000;
 }
+
 .medicine
 {
     float: left;
     min-width: 130px;
-    background-color: #cf7711;
+    background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
@@ -103,12 +114,14 @@ body
 .medicine:hover
 {
     cursor: pointer;
+    background-color: #ebebebf3;
+    color:#000000;
 }
 .programming
 {
     float: left;
     min-width: 130px;
-    background-color: #354608;
+    background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
@@ -117,20 +130,24 @@ body
 .programming:hover
 {
     cursor: pointer;
+    background-color: #ebebebf3;
+    color:#000000;
 }
 .contact
 {
     float: left;
     min-width: 130px;
-    background-color: #4c466b;
+    background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
-    padding-right: 90px;
+    padding-right: 50px;
     
 }
 .contact:hover
 {
     cursor: pointer;
+    background-color: #ebebebf3;
+    color:#000000;
 }
 .postcard
 {
