@@ -25,6 +25,8 @@ body
 }
 .menu
 {
+    margin-left: auto;
+    margin-right: auto;
     height:25px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -34,7 +36,17 @@ body
     color:#757575;
     border-top: 1px solid;
     border-bottom: 1px solid;
-    border-color:#dbdbdb; 
+    border-color:#e6e6e6; 
+}
+.menu1
+{
+    width: 900px;
+    margin-left: auto;
+    margin-right:auto;
+    height:24px;
+    background-color: #ffffff;
+    
+
 }
 .mp
 {
@@ -42,7 +54,7 @@ body
     width: 120px;
     background-color: #ffffff;
     text-align: center;
-    padding-left: 80px;
+    padding-left: 20px;
     padding-right: 20px;
 
 }
@@ -55,7 +67,7 @@ body
 .books
 {
     float: left;
-    min-width: 130px;
+    width: 60px;
     background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
@@ -71,7 +83,7 @@ body
 .films
 {
     float: left;
-    min-width: 130px;
+    min-width: 60px;
     background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
@@ -87,7 +99,7 @@ body
 .travels
 {
     float: left;
-    min-width: 130px;
+    min-width: 60px;
     background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
@@ -104,7 +116,7 @@ body
 .medicine
 {
     float: left;
-    min-width: 130px;
+    min-width: 60px;
     background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
@@ -120,7 +132,7 @@ body
 .programming
 {
     float: left;
-    min-width: 130px;
+    min-width: 60px;
     background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
@@ -136,11 +148,11 @@ body
 .contact
 {
     float: left;
-    min-width: 130px;
+    min-width: 60px;
     background-color: #ffffff;
     text-align: center;
     padding-left: 20px;
-    padding-right: 50px;
+    padding-right: 20px;
     
 }
 .contact:hover
@@ -148,6 +160,10 @@ body
     cursor: pointer;
     background-color: #ebebebf3;
     color:#000000;
+}
+.container
+{
+    width: 1000px;
 }
 .postcard
 {
@@ -165,8 +181,19 @@ body
     margin-left:500;
     height:200px;
     padding: 20px;
-    width: 660px;
+    width: 400px;
     margin-left:470;
+    background-color: #c3d612;
+}
+.aboutme
+{
+    float: left;
+    margin-top:20px;
+    margin-left:900px;
+    height:200px;
+    padding: 20px;
+    width: 200px;
+    
     background-color: #c3d612;
 }
 .text2
@@ -176,7 +203,7 @@ body
     margin-left:500;
     height:200px;
     padding: 20px;
-    width: 660px;
+    width: 400px;
     margin-left:470;
     background-color: #c26946;
     
@@ -188,11 +215,12 @@ body
     margin-left:500;
     height:200px;
     padding: 20px;
-    width: 660px;
+    width: 400px;
     margin-left:470;
     background-color: #78ac85;
     
 }
+
 
 
 
